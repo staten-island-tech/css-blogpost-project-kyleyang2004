@@ -6,6 +6,7 @@ h2 {
   position: absolute;
   text-align: center;
   margin: 300px 65px;
+  width: 1000px;
 }
 
 .white-font {
@@ -28,4 +29,14 @@ h2 {
 }
 #blog-2 {
   background-image: url(img/Avocado\ Toast.jfif);
+}
+#blog-3 {
+  background-image: url(img/Ice\ Cream.jfif);
+}
+.link {
+  text-align: center;
+  font-size: 30px;
+  width: 100%;
+  position: absolute;
+  margin-top: -90px;
 }
